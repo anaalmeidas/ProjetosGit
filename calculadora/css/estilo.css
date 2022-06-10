@@ -1,0 +1,20 @@
+.calculadora{
+  margin: 5% 35%;
+  width: 30%;
+  border-radius: solid #d5d5d5 5px;
+}
+
+.total{
+  text-align: right;
+  font-size: 35px;
+  border: solid #dedee0 10px;
+}
+.botao{
+  margin: 2%;
+}
+button{
+  width: 100%;
+}
+.cor{
+  background-color: #dedee0;
+}
